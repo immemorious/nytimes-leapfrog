@@ -4,15 +4,15 @@
 
 This leapfrog loves reading the news and hates !@#$ paying for it.
 
-## This leap frog decided to stop !@#$ paying the New York Times to read the news
+## This leapfrog decided to stop !@#$ paying the New York Times for news.
 
 To be like this leapfrog, all you have to do is:
-1. Clone the repo 
-2. Visit chrome://extensions
-3. Check "Developer Mode" at the top if it isn't already
-4. Click "Load unpacked extension"
-5. Upload this folder
-6. Read NYTimes articles fo' free, fo'eva.
+* Clone the repo 
+* Visit chrome://extensions
+* Check "Developer Mode" at the top if it isn't already
+* Click "Load unpacked extension"
+* Upload this folder
+* Read NYTimes articles fo' free, fo'eva
 
 ## How does it work?
 
