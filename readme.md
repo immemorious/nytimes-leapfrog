@@ -16,7 +16,7 @@ To be like this leapfrog, all you have to do is:
 
 ## How does it work?
 
-It's the exact same logic lifted from the anonymously published Remove NYT Cookies bookmarklet, but I got tired of clicking the fucker every time NYTimes decided to stick it to me. So, I made a Chrome extension that does it for me. You'll only notice it when it occasionally reloads a NYT article, to clear the cookies when you've reached your limit.
+It's the exact same logic lifted from the anonymously published Remove NYT Cookies bookmarklet, but I got tired of clicking the fucker every time NYTimes decided to ruin my life. So, I made a Chrome extension that clicks it for me. You'll only notice it when it occasionally reloads a NYT article, to clear the cookies when you've reached your limit.
 
 ## Why don't you just publish this extension and save me all the butthurt?
 
